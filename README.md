@@ -1,2 +1,1 @@
-# Mod-2-pkdx
-Pokedex App
+# Getting Started with mod 2 project, codename pokedex
